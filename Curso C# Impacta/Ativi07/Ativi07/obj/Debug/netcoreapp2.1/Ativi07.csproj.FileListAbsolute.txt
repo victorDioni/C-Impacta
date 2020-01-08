@@ -1,0 +1,11 @@
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Ativi07\Ativi07\bin\Debug\netcoreapp2.1\Ativi07.deps.json
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Ativi07\Ativi07\bin\Debug\netcoreapp2.1\Ativi07.runtimeconfig.json
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Ativi07\Ativi07\bin\Debug\netcoreapp2.1\Ativi07.runtimeconfig.dev.json
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Ativi07\Ativi07\bin\Debug\netcoreapp2.1\Ativi07.dll
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Ativi07\Ativi07\bin\Debug\netcoreapp2.1\Ativi07.pdb
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Ativi07\Ativi07\obj\Debug\netcoreapp2.1\Ativi07.csprojAssemblyReference.cache
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Ativi07\Ativi07\obj\Debug\netcoreapp2.1\Ativi07.csproj.CoreCompileInputs.cache
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Ativi07\Ativi07\obj\Debug\netcoreapp2.1\Ativi07.AssemblyInfoInputs.cache
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Ativi07\Ativi07\obj\Debug\netcoreapp2.1\Ativi07.AssemblyInfo.cs
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Ativi07\Ativi07\obj\Debug\netcoreapp2.1\Ativi07.dll
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Ativi07\Ativi07\obj\Debug\netcoreapp2.1\Ativi07.pdb

@@ -1,0 +1,10 @@
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula08\Aula08\bin\Debug\Aula08.exe.config
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula08\Aula08\bin\Debug\Aula08.exe
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula08\Aula08\bin\Debug\Aula08.pdb
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula08\Aula08\obj\Debug\Aula08.csprojAssemblyReference.cache
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula08\Aula08\obj\Debug\Aula08.Form1.resources
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula08\Aula08\obj\Debug\Aula08.Properties.Resources.resources
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula08\Aula08\obj\Debug\Aula08.csproj.GenerateResource.cache
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula08\Aula08\obj\Debug\Aula08.csproj.CoreCompileInputs.cache
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula08\Aula08\obj\Debug\Aula08.exe
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula08\Aula08\obj\Debug\Aula08.pdb

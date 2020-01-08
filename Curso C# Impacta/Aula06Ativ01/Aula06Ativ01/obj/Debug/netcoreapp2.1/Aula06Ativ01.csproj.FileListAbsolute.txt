@@ -1,0 +1,11 @@
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula06Ativ01\Aula06Ativ01\bin\Debug\netcoreapp2.1\Aula06Ativ01.deps.json
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula06Ativ01\Aula06Ativ01\bin\Debug\netcoreapp2.1\Aula06Ativ01.runtimeconfig.json
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula06Ativ01\Aula06Ativ01\bin\Debug\netcoreapp2.1\Aula06Ativ01.runtimeconfig.dev.json
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula06Ativ01\Aula06Ativ01\bin\Debug\netcoreapp2.1\Aula06Ativ01.dll
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula06Ativ01\Aula06Ativ01\bin\Debug\netcoreapp2.1\Aula06Ativ01.pdb
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula06Ativ01\Aula06Ativ01\obj\Debug\netcoreapp2.1\Aula06Ativ01.csprojAssemblyReference.cache
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula06Ativ01\Aula06Ativ01\obj\Debug\netcoreapp2.1\Aula06Ativ01.csproj.CoreCompileInputs.cache
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula06Ativ01\Aula06Ativ01\obj\Debug\netcoreapp2.1\Aula06Ativ01.AssemblyInfoInputs.cache
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula06Ativ01\Aula06Ativ01\obj\Debug\netcoreapp2.1\Aula06Ativ01.AssemblyInfo.cs
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula06Ativ01\Aula06Ativ01\obj\Debug\netcoreapp2.1\Aula06Ativ01.dll
+C:\Users\victor.bernardo\Desktop\Curso C# Impacta\Aula06Ativ01\Aula06Ativ01\obj\Debug\netcoreapp2.1\Aula06Ativ01.pdb
